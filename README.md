@@ -1,11 +1,9 @@
-# Project Title
-
-AWS Lambda API Layer for GAdventures API on Serverless & Node.js
-
-## Getting Started
+# AWS Lambda API Layer on Serverless & Node.js (using GAdventures API)
 
 ![Alt text](./docs/Serverless Lambda Draw.io.svg)
 <img src="./docs/Serverless Lambda Draw.io.svg">
+
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
