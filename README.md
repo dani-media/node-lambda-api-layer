@@ -1,6 +1,6 @@
 # AWS Lambda API Layer on Serverless & Node.js (using GAdventures API)
 
-![Alt text](./docs/Serverless Lambda Draw.io.svg)
+<!-- ![Alt text](./docs/Serverless Lambda Draw.io.svg) -->
 <img src="./docs/Serverless Lambda Draw.io.svg">
 
 ## Getting Started
@@ -25,6 +25,7 @@ serverless deploy
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Create, maintain, and secure APIs at any scale.
 - [Serverless](https://serverless.com) - Toolkit for building serverless apps.
 - [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [Gadventures](https://www.gadventures.com/) - Sandbox REST API, Connect to the world with small group adventure travel.
 - [Draw.io](https://www.draw.io/) - Used for diagram
 
 ## Contributing
