@@ -1,7 +1,6 @@
 # AWS Lambda API Layer on Serverless & Node.js (using GAdventures API)
 
-<!-- ![Alt text](./docs/Serverless Lambda Draw.io.svg) -->
-<img src="./docs/Serverless Lambda Draw.io.svg">
+<img src="./docs/Serverless Lambda Draw.io.png">
 
 ## Getting Started
 
